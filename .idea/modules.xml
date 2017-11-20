@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sleuth-service1/sleuth-service1.iml" filepath="$PROJECT_DIR$/sleuth-service1/sleuth-service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sleuth-service2/sleuth-service2.iml" filepath="$PROJECT_DIR$/sleuth-service2/sleuth-service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-sleuth-poc.iml" filepath="$PROJECT_DIR$/spring-sleuth-poc.iml" />
+    </modules>
+  </component>
+</project>
